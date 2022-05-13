@@ -1,0 +1,1 @@
+/Users/martinfeuillet/Local Sites/test-htmlcss/app/public/wp-content/plugins/query-monitor/wp-content/db.php
