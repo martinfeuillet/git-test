@@ -28,15 +28,7 @@
 	 define( 'DB_PASSWORD', 'root' );
 	 
 	 define( 'DB_HOST', 'localhost' );
- } else if(strstr($_SERVER['SERVER_NAME'],'preprod.test-ingenius-agency.fr')) {
-	define( 'DB_NAME', 'u167514308_preprod' );
-	 
-	define( 'DB_USER', 'u167514308_preprod' );
-	
-	define( 'DB_PASSWORD', 'Ingeniusroot92' );
-	
-	define( 'DB_HOST', '127.0.0.1' );
- }else{
+ } else{
 	define( 'DB_NAME', 'u167514308_ingeniustest' );
 	 
 	define( 'DB_USER', 'u167514308_ganonbraker' );
